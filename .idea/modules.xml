@@ -5,7 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/NWSWeatherServiceClient/NWSWeatherServiceClient.iml" filepath="$PROJECT_DIR$/NWSWeatherServiceClient/NWSWeatherServiceClient.iml" />
       <module fileurl="file://$PROJECT_DIR$/StockQuote/StockQuote.iml" filepath="$PROJECT_DIR$/StockQuote/StockQuote.iml" />
       <module fileurl="file://$PROJECT_DIR$/WeatherServiceClient/WeatherServiceClient.iml" filepath="$PROJECT_DIR$/WeatherServiceClient/WeatherServiceClient.iml" />
-      <module fileurl="file://$PROJECT_DIR$/WebServiceDemo.iml" filepath="$PROJECT_DIR$/WebServiceDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebServiceClientDemo.iml" filepath="$PROJECT_DIR$/WebServiceClientDemo.iml" />
     </modules>
   </component>
 </project>
