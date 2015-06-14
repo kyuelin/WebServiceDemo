@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/NWSWeatherServiceClient/NWSWeatherServiceClient.iml" filepath="$PROJECT_DIR$/NWSWeatherServiceClient/NWSWeatherServiceClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StockQuote/StockQuote.iml" filepath="$PROJECT_DIR$/StockQuote/StockQuote.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WeatherServiceClient/WeatherServiceClient.iml" filepath="$PROJECT_DIR$/WeatherServiceClient/WeatherServiceClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebServiceDemo.iml" filepath="$PROJECT_DIR$/WebServiceDemo.iml" />
+    </modules>
+  </component>
+</project>
